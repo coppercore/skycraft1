@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "0f74d7064fbd3a022890d16ed5892099669deaea8f0261d459a7f10adbb5c4fc"
+hash = "bbf6d6e6b697b340ce6a3cd565cf8c851a9074f7a0f6f1ee78ebd3c6ef4075c8"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -37,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
