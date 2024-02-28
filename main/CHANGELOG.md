@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/Fauli1221/skycraft1/compare/v1.0.2...v1.0.3) (2024-02-28)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.0.3 ([f0122b4](https://github.com/Fauli1221/skycraft1/commit/f0122b47fd0588e051bf429ad7083517a824e672))
+
 ## [1.0.2](https://github.com/Fauli1221/skycraft1/compare/v1.0.1...v1.0.2) (2024-02-26)
 
 
