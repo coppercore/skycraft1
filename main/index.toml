@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "e3ced77c0e2c51d61410656d447ed831341eb85c59c2be356313147e631875df"
+hash = "ae8ee7f6a6fd84de6aa826bc720d304e1c19312a3c5dcb818f65dea1e1ffed1b"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "539711fa9d7ae42abf78ea8555bc56aa8b05da73750cdf7b67d976715123a920"
+hash = "bc55e70dc459aae63d41272735b712118b2455a182c130ce2043aac051781bec"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fb7ce772b49cf568d1563c12af933bbb2823e8863bd7e4dff49063fbc23c1806"
+hash = "622ed5f67c1f83bef096f9dea29c26a7d3cb26ef5b901f0f8f0302df79d9407d"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "16e2a8c77467154e058ccb1512a9e44e9797780099b32dee874e84abab4f387f"
+hash = "12629925cd7d5813f01ef19226376ffaccde67087d2e1ab518af25e2a8108951"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "794e4285e559037eae571f43b94d6bd3193d046896731d497c0c6b688bcaac87"
+hash = "042778d980d8d00f729a99bfa24689aafa848a9596d23447e059dee1929c03cf"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "9aaa47ddb019a988c0f9b43560a488d29bda0af70f310762aac36c24959e1bab"
+hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
 
 [[files]]
