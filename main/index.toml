@@ -24,10 +24,6 @@ file = "mods/adorn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/almost-unified.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 metafile = true
 
