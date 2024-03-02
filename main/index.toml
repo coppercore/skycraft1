@@ -256,6 +256,10 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geode-plus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 metafile = true
 
