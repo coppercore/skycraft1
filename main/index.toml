@@ -24,6 +24,10 @@ file = "mods/adorn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 metafile = true
 
@@ -165,6 +169,10 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
 metafile = true
 
 [[files]]
@@ -557,6 +565,10 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal_ores.pw.toml"
 metafile = true
 
 [[files]]
