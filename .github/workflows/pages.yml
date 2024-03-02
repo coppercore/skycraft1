@@ -35,14 +35,17 @@ jobs:
       - name: get packwiz hashes
         run: |
           go install github.com/packwiz/packwiz@latest
+          echo $PATH
+          ls
+          pwd
           cd main && packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          # Upload main folder
+          path: 'main/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
