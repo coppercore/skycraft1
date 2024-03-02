@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+
+[[files]]
+file = "config/yosbr/config/bigpony.json"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 metafile = true
 
