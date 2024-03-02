@@ -548,6 +548,10 @@ file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/unicopia-blockus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/unicopia.pw.toml"
 metafile = true
 

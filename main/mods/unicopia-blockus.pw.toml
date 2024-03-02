@@ -1,0 +1,7 @@
+name = "Unicopia-Blockus"
+filename = "Unicopia-Blockus-1.0.0+1.20.1.jar"
+
+[download]
+url = "https://github.com/Sollace/Unicopia-Blockus-Addon/releases/download/1.0.0%2B1.20.1/Unicopia-Blockus-1.0.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "f71569bdacbd099313af9d8688f6bfe820dcbd7ee7719a0cd0abdb272c43a198"
