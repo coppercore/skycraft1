@@ -134,3 +134,18 @@ runs:
           echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to Curseforge with ${{ inputs.CURSEFORGE_ID }}"
         shell: bash
 
+      # ---
+      - name: Publish to Pages
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          cd main && /home/runner/go/bin/packwiz refresh --build
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload main folder
+          path: 'main/'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
