@@ -528,10 +528,6 @@ file = "mods/the-lost-castle.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/thin-air.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/threadtweak.pw.toml"
 metafile = true
 
