@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "bbf6d6e6b697b340ce6a3cd565cf8c851a9074f7a0f6f1ee78ebd3c6ef4075c8"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
