@@ -24,10 +24,6 @@ file = "mods/adorn.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/almost-unified.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 metafile = true
 
@@ -256,6 +252,10 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geode-plus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 metafile = true
 
@@ -436,10 +436,6 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/qkl.pw.toml"
 metafile = true
 
@@ -525,10 +521,6 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/thin-air.pw.toml"
 metafile = true
 
 [[files]]
