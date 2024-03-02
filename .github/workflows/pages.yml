@@ -35,10 +35,7 @@ jobs:
       - name: get packwiz hashes
         run: |
           go install github.com/packwiz/packwiz@latest
-          echo $PATH
-          ls /home/runner/
-          pwd
-          cd main && packwiz refresh --build
+          cd main && /home/runner/go/bin/packwiz refresh --build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
