@@ -41,6 +41,10 @@ file = "mods/better-archeology.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/big-pony.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/blockus.pw.toml"
 metafile = true
 
