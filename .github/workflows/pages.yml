@@ -36,7 +36,7 @@ jobs:
         run: |
           go install github.com/packwiz/packwiz@latest
           echo $PATH
-          ls
+          ls /home/runner/
           pwd
           cd main && packwiz refresh --build
       - name: Setup Pages
