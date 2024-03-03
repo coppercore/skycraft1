@@ -588,6 +588,10 @@ file = "mods/yacl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 metafile = true
 
