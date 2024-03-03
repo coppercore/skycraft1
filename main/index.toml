@@ -564,6 +564,10 @@ file = "mods/universal_ores.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/upgraded-mobs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
