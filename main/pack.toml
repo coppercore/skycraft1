@@ -1,6 +1,6 @@
 name = "SkyCraft1"
 author = "Fauli1221"
-version = "1.0.10"
+version = "1.0.12"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,7 +9,7 @@ hash-format = "sha256"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.24.0-beta.8"
+quilt = "0.24.0-beta.9"
 
 [options]
 acceptable-game-versions = ["1.20"]
