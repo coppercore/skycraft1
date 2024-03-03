@@ -13,7 +13,13 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 file = "config/yosbr/config/bigpony.json"
 
 [[files]]
+file = "config/yosbr/config/dimdoors-config.json5"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
+
+[[files]]
+file = "config/yosbr/config/universal-graves/config.json"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -657,4 +663,8 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/MineLittlePony-Extra-Pony-Armor-Pack.pw.toml"
 metafile = true

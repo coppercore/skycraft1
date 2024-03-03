@@ -1,0 +1,8 @@
+name = "MineLittlePony Extra Pony Armor Pack"
+filename = "MineLittlePony-Extra-Pony-Armor-Pack.zip"
+side = "client"
+
+[download]
+url = "https://fauli1221.de/cdn/files/MineLittlePony-Extra-Pony-Armor-Pack.zip"
+hash-format = "sha1"
+hash = "5f92800332d455c23c2f0da18ad5d6420a9d9a36"
