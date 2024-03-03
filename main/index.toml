@@ -444,6 +444,10 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/qds-magic-mirror.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 metafile = true
 
