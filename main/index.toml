@@ -220,6 +220,10 @@ file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 metafile = true
 
@@ -309,6 +313,10 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
 metafile = true
 
 [[files]]
@@ -464,18 +472,6 @@ file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/reinforced-barrels.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-chests.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-shulker-boxes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 metafile = true
 
@@ -525,6 +521,10 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/templates-2.pw.toml"
 metafile = true
 
 [[files]]
@@ -593,6 +593,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
