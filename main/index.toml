@@ -520,6 +520,10 @@ file = "mods/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/templates-2.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-castle.pw.toml"
 metafile = true
 
