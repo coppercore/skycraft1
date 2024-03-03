@@ -33,8 +33,8 @@
 	},
 	"limbo": {
 		"hardcoreLimbo": false,
-		"limboReturnDistance": 20000,
-		"limboBlocksCorruptingOverworldAmount": 5.0,
+		"limboReturnDistance": 50,
+		"limboBlocksCorruptingOverworldAmount": 0,
 		"worldsLeadingToLimbo": {
 			"list": [],
 			"blacklist": false
