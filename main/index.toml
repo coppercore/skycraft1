@@ -667,3 +667,7 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 metafile = true
+
+[[files]]
+file = "resourcepacks/MineLittlePony-Extra-Pony-Armor-Pack.pw.toml"
+metafile = true
