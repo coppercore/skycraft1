@@ -1,0 +1,13 @@
+name = "Expanded Storage"
+filename = "expandedstorage-10.1.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/ffeQGk26/expandedstorage-10.1.4-fabric.jar"
+hash-format = "sha1"
+hash = "548e5a5c542abdf383b535dd2a753632a54cac4a"
+
+[update]
+[update.modrinth]
+mod-id = "jCCPlP3c"
+version = "ffeQGk26"

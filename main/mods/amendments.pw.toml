@@ -1,13 +1,13 @@
 name = "amendments"
-filename = "amendments-1.20-1.1.4-fabric.jar"
+filename = "amendments-1.20-1.1.5-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6iTJugQR/versions/O97m2ZEm/amendments-1.20-1.1.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/xvg2LEOW/amendments-1.20-1.1.5-fabric.jar"
 hash-format = "sha1"
-hash = "7e38098cea30d75af1d5273c39753bb3c417ad7a"
+hash = "361cf26ea94f605dd91155581ed863ff41456625"
 
 [update]
 [update.modrinth]
 mod-id = "6iTJugQR"
-version = "O97m2ZEm"
+version = "xvg2LEOW"

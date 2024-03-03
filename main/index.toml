@@ -212,6 +212,10 @@ file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 metafile = true
 
@@ -453,18 +457,6 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-barrels.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-chests.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/reinforced-shulker-boxes.pw.toml"
 metafile = true
 
 [[files]]
