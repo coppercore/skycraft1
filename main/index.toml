@@ -92,6 +92,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 
@@ -173,6 +177,10 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
 metafile = true
 
 [[files]]
@@ -441,6 +449,10 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/qds-magic-mirror.pw.toml"
 metafile = true
 
 [[files]]

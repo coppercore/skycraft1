@@ -34,7 +34,7 @@
 	"limbo": {
 		"hardcoreLimbo": false,
 		"limboReturnDistance": 50,
-		"limboBlocksCorruptingOverworldAmount": 5.0,
+		"limboBlocksCorruptingOverworldAmount": 0,
 		"worldsLeadingToLimbo": {
 			"list": [],
 			"blacklist": false
@@ -50,7 +50,14 @@
 		"closeDoorBehind": true,
 		"doorList": {
 			"mode": "DISABLE",
-			"doors": []
+			"doors": [
+				"ad_astra:steel_door",
+				"templates:iron_door",
+				"ad_astra:strophar_door",
+				"ad_astra:aeronos_door",
+				"templates:door",
+				"ad_astra:glacian_door"
+			]
 		},
 		"placeRiftsInCreativeMode": true
 	},
